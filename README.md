@@ -2,8 +2,7 @@
 
 # INFO About me
 
-My name is Keval Patel
-My class section is OPS445NBB
+My name is Keval Patel & my class section is OPS445NBB
 
 # Setup
 ### First-time Setup

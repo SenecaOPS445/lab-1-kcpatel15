@@ -1,4 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15052827&assignment_repo_type=AssignmentRepo)
+
+# INFO About me
+
+My name is Keval Patel
+My class section is OPS445NBB
+
 # Setup
 ### First-time Setup
 This will setup and configure git and GitHub on Matrix. Run everything as your local user, unless indicated otherwise.
